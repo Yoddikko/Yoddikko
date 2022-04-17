@@ -6,7 +6,7 @@ Rookie Full Stack Developer
 Started coding at university with C++ and now learning Swift during the Apple Academy.
 
 *   🇮🇹  I'm based in Italy
-*   ✉️  You can contact me at [github.22n2d@aleeas.com](mailto: github.22n2d@aleeas.com)
+*   ✉️  You can contact me at github.22n2d@aleeas.com
 
 ### Skills
 
