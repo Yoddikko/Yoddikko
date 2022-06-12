@@ -8,6 +8,9 @@ Started coding at university with C++ and now learning Swift during the Apple Ac
 *   🇮🇹  I'm based in Italy
 *   ✉️  You can contact me at github.22n2d@aleeas.com
 
+![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+
+
 ### Skills
 
 <p align="left">
