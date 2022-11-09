@@ -1,8 +1,6 @@
 Hi 👋 My name is Ale
 ===========================
 
-Rookie Full Stack Developer
----------------------------
 Started coding at university with C++ and now learning Swift during the Apple Academy.
 
 *   🇮🇹  I'm based in Italy
