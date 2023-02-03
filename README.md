@@ -2,6 +2,8 @@
 Studying computer engineering and student at the Apple Academy in Italy 🇮🇹<br>
 
 My interests are pretty trivial: videogames, tech and spending my whole life on yt.
+
+[Me feeding my caffeine addiction as I watch my code collapse in on itself](https://media.tenor.com/0jjw-Sp3T-IAAAAd/rohe.gif)
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessio-iodice-4a22131b0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@alessioi) [![Read.Cv](https://img.shields.io/badge/-Read.cv-inactive?style=plastic&logo)](https://read.cv/yod)
 
