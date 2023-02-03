@@ -1,7 +1,7 @@
 # 💫 About Me:
 Studying computer engineering and student at the Apple Academy in Italy 🇮🇹<br>
 
-
+My interests are pretty trivial: videogames, tech and spending my whole life on yt.
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessio-iodice-4a22131b0) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@alessioi) 
 
