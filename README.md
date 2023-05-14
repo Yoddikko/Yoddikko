@@ -1,6 +1,8 @@
 # 💫 About Me:
 Studying computer engineering and student at the Apple Academy in Italy 🇮🇹<br>
 
+[My website](www.yoddikko.github.io)
+
 My interests are pretty trivial: videogames, tech and spending my whole life on yt.
 
 [Me feeding my caffeine addiction as I watch my code collapse in on itself](https://media.tenor.com/0jjw-Sp3T-IAAAAd/rohe.gif)
