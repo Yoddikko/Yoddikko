@@ -1,5 +1,5 @@
 # 💫 About Me:
-Studying computer engineering and student at the Apple Academy in Italy 🇮🇹<br>
+Working as QA Automation Engineer, studying computer engineering and alumni (ex-student) at the Apple Academy in Italy 🇮🇹<br>
 
 [My website](https://yoddikko.github.io/)
 
