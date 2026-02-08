@@ -1,6 +1,6 @@
 # 💫 About Me:
 Currently in 🇪🇸
-Working as QA Automation Engineer, studying computer engineering and alumni (ex-student) at the Apple Academy in 🇮🇹<br>
+working as QA Automation Engineer, studying computer engineering and alumni (ex-student) at the Apple Academy in 🇮🇹<br>
 
 [My website](https://yoddikko.github.io/)
 
