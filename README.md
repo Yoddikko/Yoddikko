@@ -3,7 +3,7 @@ Working as QA Automation Engineer, studying computer engineering and alumni (ex-
 
 [My website](https://yoddikko.github.io/)
 
-My interests are pretty trivial: videogames, tech and spending my whole life on yt.
+My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̩̫͔͙̙̳̔̈́̈̔̕͝r̴͖̣͗́͗͝ḯ̸̬͚̺͔͕̊̾̓̎̄ń̷̨͖̰͝g̸̙̟̳̏̌͠ ̵̛͕̗̻͈̱̜ǐ̴̢̧̙͉̞̈͑͐͝n̴̢͈̦͗̈̒̃͒͘ͅt̷͔͕̯͌̾̆͐͘͝ő̵̞̗̹̩̏͛̑̒͌ ̷͈̻̞̄͂t̷̥̠̾̀̓̓̑̽͜ḥ̸͉̻̞̳̣̈͐̎̀ë̷̢̫̹͊̀ ̷̧͔̬̘̈́͆̓̕v̴̤̫͈͖̻͔͂̄͐͆͗͘o̷͍̯̪͙͇̳̊͆͌̐ĩ̸̙̞͆̕͠ͅd̶̰̮͓͓͛ͅ and spending my whole life on yt.
 
 [Me feeding my caffeine addiction as I watch my code collapse in on itself](https://media.tenor.com/0jjw-Sp3T-IAAAAd/rohe.gif)
 ## 🌐 Socials:
