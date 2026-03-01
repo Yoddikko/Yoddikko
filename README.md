@@ -19,7 +19,8 @@ My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̔̈́̕͝
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-007AFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 
 ## 🎨 Design & Collaboration
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
