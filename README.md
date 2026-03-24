@@ -15,14 +15,15 @@ My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̔̈́̕͝
 
 ## 🛠 Technical
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-007AFF?style=for-the-badge&logo=apple&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&logo=claude&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&logo=claude&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge)
 
 ## 🎨 Design & Collaboration
