@@ -14,12 +14,13 @@ My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̔̈́̕͝
 # 💻 Tech Stack:
 
 ## 🛠 Technical
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![XCTest](https://img.shields.io/badge/XCTest-007AFF?style=for-the-badge&logo=apple&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&logo=claude&logoColor=white)
+
 
 
 ## 🎨 Design & Collaboration
