@@ -19,6 +19,7 @@ My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̔̈́̕͝
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
+![QA](https://img.shields.io/badge/Quality_Assurance-4CAF50?style=for-the-badge)
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&logo=claude&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
