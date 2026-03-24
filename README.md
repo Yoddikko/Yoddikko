@@ -6,7 +6,6 @@ working as QA Automation Engineer, studying computer engineering and alumni (ex-
 
 My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̩̫͔͙̙̳̔̈́̈̔̕͝r̴͖̣͗́͗͝ḯ̸̬͚̺͔͕̊̾̓̎̄ń̷̨͖̰͝g̸̙̟̳̏̌͠ ̵̛͕̗̻͈̱̜ǐ̴̢̧̙͉̞̈͑͐͝n̴̢͈̦͗̈̒̃͒͘ͅt̷͔͕̯͌̾̆͐͘͝ő̵̞̗̹̩̏͛̑̒͌ ̷͈̻̞̄͂t̷̥̠̾̀̓̓̑̽͜ḥ̸͉̻̞̳̣̈͐̎̀ë̷̢̫̹͊̀ ̷̧͔̬̘̈́͆̓̕v̴̤̫͈͖̻͔͂̄͐͆͗͘o̷͍̯̪͙͇̳̊͆͌̐ĩ̸̙̞͆̕͠ͅd̶̰̮͓͓͛ͅ and spending my whole life on yt.
 
-[Me feeding my caffeine addiction as I watch my code collapse in on itself](https://media.tenor.com/0jjw-Sp3T-IAAAAd/rohe.gif)
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessio-iodice-4a22131b0) 
 
@@ -39,3 +38,5 @@ My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̔̈́̕͝
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Yoddikko&icon=3&color=10)](https://visitcount.itsvg.in)
+[me embarking in a new project](https://github.com/user-attachments/assets/9f793ac3-2000-40c9-a0fe-f624a7cb0150)
+
