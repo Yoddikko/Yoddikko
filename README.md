@@ -4,10 +4,10 @@ working as QA Automation Engineer, studying computer engineering and alumni (ex-
 
 [My website](https://yoddikko.github.io/)
 
-My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̩̫͔͙̙̳̔̈́̈̔̕͝r̴͖̣͗́͗͝ḯ̸̬͚̺͔͕̊̾̓̎̄ń̷̨͖̰͝g̸̙̟̳̏̌͠ ̵̛͕̗̻͈̱̜ǐ̴̢̧̙͉̞̈͑͐͝n̴̢͈̦͗̈̒̃͒͘ͅt̷͔͕̯͌̾̆͐͘͝ő̵̞̗̹̩̏͛̑̒͌ ̷͈̻̞̄͂t̷̥̠̾̀̓̓̑̽͜ḥ̸͉̻̞̳̣̈͐̎̀ë̷̢̫̹͊̀ ̷̧͔̬̘̈́͆̓̕v̴̤̫͈͖̻͔͂̄͐͆͗͘o̷͍̯̪͙͇̳̊͆͌̐ĩ̸̙̞͆̕͠ͅd̶̰̮͓͓͛ͅ and spending my whole life on yt.
+My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̩̫͔͙̙̳̔̈́̈̔̕͝r̴͖̣͗́͗͝ḯ̸̬͚̺͔͕̊̾̓̎̄ń̷̨͖̰͝g̸̙̟̳̏̌͠ ̵̛͕̗̻͈̱̜ǐ̴̢̙͉̈͑͐͝[...]
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessio-iodice-4a22131b0) 
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&l[...]
 
 
 # 💻 Tech Stack:
@@ -17,6 +17,7 @@ My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̔̈́̕͝
 ![XCTest](https://img.shields.io/badge/XCTest-007AFF?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge)
 ![QA](https://img.shields.io/badge/Quality_Assurance-4CAF50?style=for-the-badge)
 
