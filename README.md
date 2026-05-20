@@ -4,7 +4,7 @@ working as QA Automation Engineer, studying computer engineering and alumni (ex-
 
 [My website](https://yoddikko.github.io/)
 
-My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̩̫͔͙̙̳̔̈́̈̔̕͝r̴͖̣͗́͗͝ḯ̸̬͚̺͔͕̊̾̓̎̄ń̷̨͖̰͝g̸̙̟̳̏̌͠ ̵̛͕̗̻͈̱̜ǐ̴̢̈͑͐͝...
+My interests are pretty trivial: s̵͙͈͔̙̃̇t̴̢̨̞̪̻̽̂̉͌a̸̩̫͔͙̙̳̔̈́̈̔̕͝r̴͖̣͗́͗͝ḯ̸̬͚̺͔͕̊̾̓̎̄ń̷̨͖̰͝g̸̙̟̳̏̌͠ ̵̛͕̗̻͈̱̜ǐ̴̢̈͑͐͝ and watching youtube the whole day
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&l...]
