@@ -7,8 +7,7 @@ working as QA Automation Engineer, studying computer engineering and alumni (ex-
 My interests are pretty trivial: s̸̡̨̢̧̡̠̜̯̰̺̬̠̮̜̙̽t̷̩̻̝̠̭̱̤̼̘͐̉̔̓̋͂͐̅̈́̅̾̋͂̈́͠ä̷̬̮̤́͌̔͋̒̏r̸̦̄i̴̡̨̧̩̣̩̩̪̥̗͌̉̐̚ǹ̶̨̺̻̳̙̼̝͉͓̙̙̱̮͛̽̿̍̐̍͑͒̕͜͜͝g̶̨̛̮̜̰̭̮̩̥͙̖͚͂̃̔͒̽́̄̂̉̋̚͘͝͝ ̴̰̄̕ȉ̸͓͉͎͉͛̄̿̀ͅn̶̨̠͚̦͗͌̊̾t̵̡̡̪̠̟̤̫̝͇̝̤̲̑̉͆̃̓̔̿͆̊̎̈́̐̎͝ơ̸̛̛̬͍͎͙̣̗̝͕̙̰̩͋̏̈̅̄̿͆̏̊̀̅ ̴̧̤̬͉̖̱̘̫̠̤̙̰̔͗̆͋̍͊̌͊̍̿̇͂̓̚͝t̵͉̲͇̳̦̰́̊̽͒̿̄́̈́̈̌͝h̵̡̠͈̰͚̓́͝ȩ̶̢̡̟͙̳͍̝͇͎͎͙̪̣̐͋͋̋̊́͝͠ ̵̛̙̼͙̼̒̆̑̑͂̈́̽̐̓̐̔v̸̨̢̡̢̙͚̜̳̬͎̪͓̈́̂̉̈͘ỡ̸̡̠͋͂̀̈́̄̌̇͆̇̾̀͜͠î̷̢̬̟̼̣̖̺̣̉d̷̛̩̻̪̭̀̆̿̋ and watching youtube the whole day
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&l...]
-
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![Linkedin](https://img.shields.io/badge/Linkedin-1769ff?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-iodice-4a22131b0/)
 
 # 💻 Tech Stack:
 
