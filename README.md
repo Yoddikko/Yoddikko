@@ -1,20 +1,21 @@
-<table>
-  <tr>
-    <td width="70%">
-      <h1>About Me</h1>
-      <p>
-        Currently in 🇪🇸
-        Working as QA Automation Engineer, studying Computer Engineering, and Apple Developer Academy alumni 🇮🇹
-      </p>
-      <p>
-        What I aim to bring to every project is creativity, curiosity, and the ability to think outside the box. I am constantly exploring new ideas, which is reflected in the variety of repositories and projects I have developed across different areas. I consider myself a highly versatile person: wherever I am placed, I adapt quickly, find solutions, and manage to deliver value.
-      </p>
-    </td>
-    <td width="30%" align="center">
-      <img src="gif.gif" width="180" alt="gif">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="gif.gif" width="80" alt="gif">
+  
+  <h1>About Me</h1>
+
+  <p>
+    Currently in 🇪🇸<br>
+    Working as QA Automation Engineer, studying Computer Engineering, and Apple Developer Academy alumni 🇮🇹
+  </p>
+</div>
+
+<p>
+  What I aim to bring to every project is creativity, curiosity, and the ability to think outside the box. I am constantly exploring new ideas, which is reflected in the variety of repositories and projects I have developed across different areas. I consider myself a highly versatile person: wherever I am placed, I adapt quickly, find solutions, and manage to deliver value.
+</p>
+
+<p align="center">
+  <a href="https://yoddikko.github.io/">My website</a>
+</p>
 
 [My website](https://yoddikko.github.io/)
 
