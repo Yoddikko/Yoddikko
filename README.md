@@ -15,8 +15,6 @@
   </p>
 </div>
 
----
-
 <p align="center">
   I bring creativity, curiosity, and an out-of-the-box mindset to every project I work on.<br>
   I am constantly exploring new ideas, which is reflected in the variety of repositories and projects I have developed across different areas.<br>
@@ -35,8 +33,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-1769ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
----
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -71,17 +67,20 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yoddikko&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoddikko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
+<br>
 
 <div align="center">
-  <sub>
-    My interests are pretty trivial:<br>
-    staring into the void · building random things · watching YouTube the whole day
-  </sub>
+  <img
+    src="https://streak-stats.demolab.com/?user=Yoddikko&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000"
+    alt="GitHub Streak"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yoddikko&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=00000000&amp;custom_title=Contribution%20Graph"
+    alt="GitHub Activity Graph"
+  />
 </div>
