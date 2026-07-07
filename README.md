@@ -21,11 +21,17 @@
   I see myself as a versatile developer: wherever I am placed, I adapt quickly, find solutions, and find a way to deliver value.
 </p>
 
---
+---
 
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="22" alt="Tech Stack icon">
+  Tech Stack
+</h2>
 
-<h3 align="center">🧪 QA Automation & Testing</h3>
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:badge-check.svg?color=%234CAF50" width="20" alt="QA Automation icon">
+  QA Automation & Testing
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quality_Assurance-4CAF50?style=for-the-badge" alt="Quality Assurance">
@@ -36,7 +42,10 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira">
 </p>
 
-<h3 align="center">📱 iOS & Mobile Development</h3>
+<h3 align="center">
+  <img src="https://cdn.simpleicons.org/apple/ffffff" width="20" alt="iOS icon">
+  iOS & Mobile Development
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift">
@@ -45,7 +54,10 @@
   <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge" alt="MVVM">
 </p>
 
-<h3 align="center">⚙️ Development & DevOps</h3>
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:terminal.svg?color=%232088FF" width="20" alt="Development icon">
+  Development & DevOps
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
@@ -55,23 +67,34 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS">
 </p>
 
-<h3 align="center">🤖 AI & Automation</h3>
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238E44AD" width="20" alt="AI icon">
+  AI & Automation
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&amp;logo=claude&amp;logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex">
   <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge" alt="Generative AI">
 </p>
 
-<h3 align="center">🎨 Design & Collaboration</h3>
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:pencil-ruler.svg?color=%23F24E1E" width="20" alt="Design icon">
+  Design & Collaboration
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&amp;logo=sketch&amp;logoColor=black" alt="Sketch">
   <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&amp;logo=miro&amp;logoColor=black" alt="Miro">
 </p>
+
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">
+  <img src="https://api.iconify.design/lucide:chart-no-axes-column-increasing.svg?color=%23ffffff" width="22" alt="GitHub Stats icon">
+  GitHub Stats
+</h2>
 
 <br>
 
@@ -89,4 +112,13 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=Yoddikko&amp;theme=tokyo-night&amp;hide_border=true&amp;bg_color=00000000&amp;custom_title=Contribution%20Graph"
     alt="GitHub Activity Graph"
   />
+</div>
+
+<br>
+
+<div align="center">
+  <sub>
+    My interests are pretty trivial:<br>
+    staring into the void · building random things · watching YouTube the whole day
+  </sub>
 </div>
