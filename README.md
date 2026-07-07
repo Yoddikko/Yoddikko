@@ -2,9 +2,9 @@
 Currently in 🇪🇸
 working as QA Automation Engineer, studying computer engineering and alumni (ex-student) at the Apple Academy in 🇮🇹<br>
 
-[My website](https://yoddikko.github.io/)
+What I aim to bring to every project is creativity, curiosity, and the ability to think outside the box. I am constantly exploring new ideas, which is reflected in the variety of repositories and projects I have developed across different areas. I consider myself a highly versatile person: wherever I am placed, I adapt quickly, find solutions, and manage to deliver value.
 
-My interests are pretty trivial: s̸̡̨̢̧̡̠̜̯̰̺̬̠̮̜̙̽t̷̩̻̝̠̭̱̤̼̘͐̉̔̓̋͂͐̅̈́̅̾̋͂̈́͠ä̷̬̮̤́͌̔͋̒̏r̸̦̄i̴̡̨̧̩̣̩̩̪̥̗͌̉̐̚ǹ̶̨̺̻̳̙̼̝͉͓̙̙̱̮͛̽̿̍̐̍͑͒̕͜͜͝g̶̨̛̮̜̰̭̮̩̥͙̖͚͂̃̔͒̽́̄̂̉̋̚͘͝͝ ̴̰̄̕ȉ̸͓͉͎͉͛̄̿̀ͅn̶̨̠͚̦͗͌̊̾t̵̡̡̪̠̟̤̫̝͇̝̤̲̑̉͆̃̓̔̿͆̊̎̈́̐̎͝ơ̸̛̛̬͍͎͙̣̗̝͕̙̰̩͋̏̈̅̄̿͆̏̊̀̅ ̴̧̤̬͉̖̱̘̫̠̤̙̰̔͗̆͋̍͊̌͊̍̿̇͂̓̚͝t̵͉̲͇̳̦̰́̊̽͒̿̄́̈́̈̌͝h̵̡̠͈̰͚̓́͝ȩ̶̢̡̟͙̳͍̝͇͎͎͙̪̣̐͋͋̋̊́͝͠ ̵̛̙̼͙̼̒̆̑̑͂̈́̽̐̓̐̔v̸̨̢̡̢̙͚̜̳̬͎̪͓̈́̂̉̈͘ỡ̸̡̠͋͂̀̈́̄̌̇͆̇̾̀͜͠î̷̢̬̟̼̣̖̺̣̉d̷̛̩̻̪̭̀̆̿̋ and watching youtube the whole day
+[My website](https://yoddikko.github.io/)
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/yoddale) [![Linkedin](https://img.shields.io/badge/Linkedin-1769ff?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessio-iodice-4a22131b0/)
@@ -39,4 +39,5 @@ My interests are pretty trivial: s̸̡̨̢̧̡̠̜̯̰̺̬̠̮̜̙̽t̷͐̉̔̓�
 [![](https://visitcount.itsvg.in/api?id=Yoddikko&icon=3&color=10)](https://visitcount.itsvg.in)
 [me embarking in a new project](https://github.com/user-attachments/assets/9f793ac3-2000-40c9-a0fe-f624a7cb0150)
 
+My interests are pretty trivial: s̸̡̨̢̧̡̠̜̯̰̺̬̠̮̜̙̽t̷̩̻̝̠̭̱̤̼̘͐̉̔̓̋͂͐̅̈́̅̾̋͂̈́͠ä̷̬̮̤́͌̔͋̒̏r̸̦̄i̴̡̨̧̩̣̩̩̪̥̗͌̉̐̚ǹ̶̨̺̻̳̙̼̝͉͓̙̙̱̮͛̽̿̍̐̍͑͒̕͜͜͝g̶̨̛̮̜̰̭̮̩̥͙̖͚͂̃̔͒̽́̄̂̉̋̚͘͝͝ ̴̰̄̕ȉ̸͓͉͎͉͛̄̿̀ͅn̶̨̠͚̦͗͌̊̾t̵̡̡̪̠̟̤̫̝͇̝̤̲̑̉͆̃̓̔̿͆̊̎̈́̐̎͝ơ̸̛̛̬͍͎͙̣̗̝͕̙̰̩͋̏̈̅̄̿͆̏̊̀̅ ̴̧̤̬͉̖̱̘̫̠̤̙̰̔͗̆͋̍͊̌͊̍̿̇͂̓̚͝t̵͉̲͇̳̦̰́̊̽͒̿̄́̈́̈̌͝h̵̡̠͈̰͚̓́͝ȩ̶̢̡̟͙̳͍̝͇͎͎͙̪̣̐͋͋̋̊́͝͠ ̵̛̙̼͙̼̒̆̑̑͂̈́̽̐̓̐̔v̸̨̢̡̢̙͚̜̳̬͎̪͓̈́̂̉̈͘ỡ̸̡̠͋͂̀̈́̄̌̇͆̇̾̀͜͠î̷̢̬̟̼̣̖̺̣̉d̷̛̩̻̪̭̀̆̿̋ and watching youtube the whole day
 
