@@ -21,48 +21,54 @@
   I see myself as a versatile developer: wherever I am placed, I adapt quickly, find solutions, and find a way to deliver value.
 </p>
 
----
-
-<h2 align="center">🌐 Socials</h2>
-
-<p align="center">
-  <a href="https://behance.net/yoddale">
-    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance">
-  </a>
-  <a href="https://www.linkedin.com/in/alessio-iodice-4a22131b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-1769ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+--
 
 <h2 align="center">💻 Tech Stack</h2>
 
-<h3 align="center">🛠 Technical</h3>
+<h3 align="center">🧪 QA Automation & Testing</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/XCTest-007AFF?style=for-the-badge&logo=apple&logoColor=white" alt="XCTest">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode">
-  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge" alt="MVVM">
   <img src="https://img.shields.io/badge/Quality_Assurance-4CAF50?style=for-the-badge" alt="Quality Assurance">
+  <img src="https://img.shields.io/badge/XCTest-007AFF?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="XCTest">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&amp;logo=selenium&amp;logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/HTML_Reports-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML Reports">
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=jira&amp;logoColor=white" alt="Jira">
 </p>
 
+<h3 align="center">📱 iOS & Mobile Development</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&amp;logo=swift&amp;logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="iOS">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&amp;logo=xcode&amp;logoColor=white" alt="Xcode">
+  <img src="https://img.shields.io/badge/MVVM-FF6F00?style=for-the-badge" alt="MVVM">
+</p>
+
+<h3 align="center">⚙️ Development & DevOps</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white" alt="AWS">
+</p>
+
+<h3 align="center">🤖 AI & Automation</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-555555?style=for-the-badge&amp;logo=claude&amp;logoColor=white" alt="Claude Code">
   <img src="https://img.shields.io/badge/Generative_AI-8E44AD?style=for-the-badge" alt="Generative AI">
 </p>
 
 <h3 align="center">🎨 Design & Collaboration</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black" alt="Sketch">
-  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&logo=miro&logoColor=black" alt="Miro">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&amp;logo=sketch&amp;logoColor=black" alt="Sketch">
+  <img src="https://img.shields.io/badge/Miro-FFD02F?style=for-the-badge&amp;logo=miro&amp;logoColor=black" alt="Miro">
 </p>
-
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
