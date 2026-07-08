@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://yoddikko.github.io/">Website</a> ·
+    <a href="https://yoddikko.github.io/terminal_portfolio/">Website</a> ·
     <a href="https://behance.net/yoddale">Behance</a> ·
     <a href="https://www.linkedin.com/in/alessio-iodice-4a22131b0/">LinkedIn</a>
   </p>
