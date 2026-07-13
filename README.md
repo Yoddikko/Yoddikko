@@ -119,6 +119,16 @@
 <div align="center">
   <sub>
     My interests are pretty trivial:<br>
-    staring into the void · building random things · watching YouTube the whole day
+    <a href="https://github.com/user-attachments/assets/df1be395-593e-4e2a-96b8-1a32e7accd9e">
+      staring into the void
+    </a>
+    ·
+    <a href="https://github.com/user-attachments/assets/ea6e0292-9f42-4eaa-961f-4f89812ed3f5">
+      building random things
+    </a>
+    ·
+    <a href="https://github.com/user-attachments/assets/df41b5ce-d093-4b8e-b512-2dd9f90039ef">
+      watching YouTube the whole day
+    </a>
   </sub>
 </div>
