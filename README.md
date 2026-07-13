@@ -4,8 +4,8 @@
   <h1>About Me</h1>
 
   <p>
-    Currently in 🇪🇸<br>
-    QA Automation Engineer · Computer Engineering Student · Apple Developer Academy Alumni 🇮🇹
+    🇮🇹 Currently in 🇪🇸<br>
+    QA Automation Engineer · Computer Engineering Student · Apple Developer Academy Alumni 
   </p>
 
   <p>
