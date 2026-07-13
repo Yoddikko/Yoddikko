@@ -5,7 +5,7 @@
 
   <p>
     🇮🇹 Currently in 🇪🇸<br>
-    QA Automation Engineer · Computer Engineering Student · Apple Developer Academy Alumni 
+    QA Automation Engineer · iOS developer · Computer Engineering Student · Apple Developer Academy Alumni 
   </p>
 
   <p>
