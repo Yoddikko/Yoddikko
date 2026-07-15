@@ -116,7 +116,7 @@
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%232088FF" width="44" alt="Terminal Portfolio icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="terminal_portfolio icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a><br>
@@ -134,7 +134,7 @@
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23F1C40F" width="44" alt="Automercatorum icon">
+      <img src="https://avatars.githubusercontent.com/u/285715765?v=4" width="48" alt="Automercatorum icon">
     </td>
     <td>
       <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a><br>
@@ -143,7 +143,7 @@
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:book-open.svg?color=%23007AFF" width="44" alt="AirBook icon">
+      <img src="https://avatars.githubusercontent.com/u/293909643?v=4" width="48" alt="AirBook for CrossPoint icon">
     </td>
     <td>
       <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a><br>
@@ -152,7 +152,7 @@
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:globe-2.svg?color=%23E34F26" width="44" alt="GulliverWeb icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/GulliverWeb/main/img/logo.png" width="48" alt="Gulliver icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/GulliverWeb"><strong>GulliverWeb</strong></a><br>
@@ -170,7 +170,7 @@
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:message-circle-code.svg?color=%23F05138" width="44" alt="yoddChatGPT icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/yoddChatGPT/main/YoddChatGpt/Assets.xcassets/AppIcon.appiconset/App_store_1024_1x.png" width="48" alt="yoddChatGPT icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a><br>
@@ -188,7 +188,7 @@
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:bot.svg?color=%238E44AD" width="44" alt="Token tool icon">
+      <img src="https://github.com/user-attachments/assets/8d9a2be2-986a-4132-a677-5118268314e3" width="48" alt="TokenMaxxxxing icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a><br>
@@ -216,7 +216,7 @@
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:leaf.svg?color=%234CAF50" width="44" alt="Now icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/Now/main/Now.swiftpm/Assets.xcassets/AppIcon.appiconset/App_store_1024_1x.png" width="48" alt="Now icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/Now"><strong>Now</strong></a><br>
@@ -236,7 +236,7 @@
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:battery-charging.svg?color=%2300A86B" width="44" alt="Be Charge Host icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/Be-Charge-Host-Hackaton2022/main/Be_Charge_Host/Be_Charge_Host/Assets.xcassets/AppIcon.appiconset/1024.png" width="48" alt="Be Charge Host icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/Be-Charge-Host-Hackaton2022"><strong>Be Charge Host</strong></a><br>
