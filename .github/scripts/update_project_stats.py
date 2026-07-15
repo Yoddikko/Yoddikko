@@ -65,11 +65,22 @@ def render_stats(repository: str, stars: int, forks: int) -> str:
 def update_block(readme: str, repository: str, rendered: str) -> str:
     start = f"<!-- repo-stats:{repository}:start -->"
     end = f"<!-- repo-stats:{repository}:end -->"
-    pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.DOTALL)
     replacement = f"{start}{rendered}{end}"
+    pattern = re.compile(re.escape(start) + r".*?" + re.escape(end), re.DOTALL)
+
     updated, count = pattern.subn(replacement, readme)
+    if count == 1:
+        return updated
+    if count > 1:
+        raise RuntimeError(f"Found duplicate stats blocks for {repository}")
+
+    repository_url = f"https://github.com/{repository}"
+    link_pattern = re.compile(
+        rf'(<a href="{re.escape(repository_url)}"><strong>.*?</strong></a>)'
+    )
+    updated, count = link_pattern.subn(rf"\1 {replacement}", readme, count=1)
     if count != 1:
-        raise RuntimeError(f"Expected exactly one stats block for {repository}, found {count}")
+        raise RuntimeError(f"Could not find the README project link for {repository}")
     return updated
 
 
