@@ -192,7 +192,7 @@
     </td>
     <td>
       <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a><br>
-      An experimental JavaScript project aimed at reducing token spending in AI-assisted coding workflows.<br>
+      An experimental JavaScript project aimed at reducing token launching Claude with DeepSeek API tokens.<br>
       <sub>JavaScript</sub>
     </td>
   </tr>
