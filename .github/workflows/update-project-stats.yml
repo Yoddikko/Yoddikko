@@ -1,0 +1,42 @@
+name: Update project stats
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    paths:
+      - ".github/scripts/update_project_stats.py"
+      - ".github/workflows/update-project-stats.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-project-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Update stars and forks
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/update_project_stats.py
+
+      - name: Commit updated counters
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Project counters are already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update project stars and forks"
+          git push
