@@ -110,7 +110,7 @@
     </td>
     <td>
       <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a><br>
-      A native macOS client for YouTube and YouTube Music with AdBlock, SponsorBlock, Return YouTube Dislike, on-device video summaries, lyrics search, media downloads, additional playback controls, comment search, and a cleaner watch-page experience.<br>
+      A native macOS client for YouTube and YouTube Music with AdBlock, SponsorBlock, Return YouTube Dislike, on-device video summaries, lyrics search, media downloads, additional playback controls, comment search, and a cleaner watch-page experience. (fork) <br>
       <sub>Swift · SwiftUI · macOS</sub>
     </td>
   </tr>
