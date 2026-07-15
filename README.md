@@ -109,7 +109,7 @@
       <img src="https://github.com/user-attachments/assets/c964b327-f5e2-4929-97df-0834926c944f" width="48" alt="KasetPlus icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a> <!-- repo-stats:Yoddikko/kasetPlus:start --><a href="https://github.com/Yoddikko/kasetPlus/stargazers" title="2 stars"><img src="https://api.iconify.design/lucide:star.svg?color=%23F1C40F" width="15" height="15" alt="Stars">&nbsp;<sub><strong>2</strong></sub></a><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
+      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
       A native macOS client for YouTube and YouTube Music with AdBlock, SponsorBlock, Return YouTube Dislike, on-device video summaries, lyrics search, media downloads, additional playback controls, comment search, and a cleaner watch-page experience. (fork) <br>
       <sub>Swift · SwiftUI · macOS</sub>
     </td>
@@ -119,7 +119,7 @@
       <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="terminal_portfolio icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a> <!-- repo-stats:Yoddikko/terminal_portfolio:start --><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
+      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/terminal_portfolio:start --><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
       A personal portfolio designed as an interactive terminal experience.<br>
       <sub>JavaScript</sub>
     </td>
@@ -155,7 +155,7 @@
       <img src="https://raw.githubusercontent.com/Yoddikko/GulliverWeb/main/img/logo.png" width="48" alt="Gulliver icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/GulliverWeb"><strong>GulliverWeb</strong></a> <!-- repo-stats:Yoddikko/GulliverWeb:start --><!-- repo-stats:Yoddikko/GulliverWeb:end --><br>
+      <a href="https://github.com/Yoddikko/GulliverWeb"><strong>GulliverWeb</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/GulliverWeb:start --><!-- repo-stats:Yoddikko/GulliverWeb:end --><br>
       Website for Gulliver, an iOS position spoofer app for MacOS<br>
       <sub>HTML</sub>
     </td>
@@ -173,7 +173,7 @@
       <img src="https://raw.githubusercontent.com/Yoddikko/yoddChatGPT/main/YoddChatGpt/Assets.xcassets/AppIcon.appiconset/App_store_1024_1x.png" width="48" alt="yoddChatGPT icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a> <!-- repo-stats:Yoddikko/yoddChatGPT:start --><a href="https://github.com/Yoddikko/yoddChatGPT/stargazers" title="87 stars"><img src="https://api.iconify.design/lucide:star.svg?color=%23F1C40F" width="15" height="15" alt="Stars">&nbsp;<sub><strong>87</strong></sub></a>&nbsp;&nbsp;<a href="https://github.com/Yoddikko/yoddChatGPT/forks" title="12 forks"><img src="https://api.iconify.design/lucide:git-fork.svg?color=%238B949E" width="15" height="15" alt="Forks">&nbsp;<sub><strong>12</strong></sub></a><!-- repo-stats:Yoddikko/yoddChatGPT:end --><br>
+      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/yoddChatGPT:start --><span title="87 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>87</strong></span>&nbsp;&nbsp;&nbsp;<span title="12 forks"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>12</strong></span><!-- repo-stats:Yoddikko/yoddChatGPT:end --><br>
       A discontinued, free, and open-source ChatGPT client for iOS, featuring chat, image generation, a customizable interface, and multilingual support.<br>
       <sub>Swift · iOS · MVVM · OpenAI API</sub>
     </td>
@@ -191,7 +191,7 @@
       <img src="https://github.com/user-attachments/assets/8d9a2be2-986a-4132-a677-5118268314e3" width="48" alt="TokenMaxxxxing icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a> <!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:start --><!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:end --><br>
+      <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:start --><!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:end --><br>
       An experimental JavaScript project aimed at reducing token launching Claude with DeepSeek API tokens.<br>
       <sub>JavaScript</sub>
     </td>
@@ -201,7 +201,7 @@
       <img src="https://api.iconify.design/lucide:activity.svg?color=%234CAF50" width="44" alt="Motion data icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData"><strong>GetGyroAndAccelerometerData</strong></a> <!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:start --><a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData/stargazers" title="3 stars"><img src="https://api.iconify.design/lucide:star.svg?color=%23F1C40F" width="15" height="15" alt="Stars">&nbsp;<sub><strong>3</strong></sub></a><!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:end --><br>
+      <a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData"><strong>GetGyroAndAccelerometerData</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:start --><span title="3 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:end --><br>
       A SwiftUI utility that records gyroscope and accelerometer data through Core Motion and exports the captured values to CSV files.<br>
       <sub>Swift · SwiftUI · Core Motion · CSV</sub>
     </td>
@@ -219,7 +219,7 @@
       <img src="https://raw.githubusercontent.com/Yoddikko/Now/main/Now.swiftpm/Assets.xcassets/AppIcon.appiconset/App_store_1024_1x.png" width="48" alt="Now icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/Now"><strong>Now</strong></a> <!-- repo-stats:Yoddikko/Now:start --><!-- repo-stats:Yoddikko/Now:end --><br>
+      <a href="https://github.com/Yoddikko/Now"><strong>Now</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/Now:start --><!-- repo-stats:Yoddikko/Now:end --><br>
       <strong>WWDC23 Swift Student Challenge Winner.</strong> A short, reusable SwiftUI experience designed as a safe space for reflection, relaxation, and present-moment awareness.<br>
       <sub>Swift · SwiftUI · AVFoundation · Core Data · MVVM</sub>
     </td>
@@ -229,7 +229,7 @@
       <img src="https://user-images.githubusercontent.com/92546954/161830840-5317e76a-1109-4ceb-9f61-6e949c498a8d.png" width="48" alt="ASL Recognizer icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/ASL-Recognizer"><strong>ASL Recognizer</strong></a> <!-- repo-stats:Yoddikko/ASL-Recognizer:start --><a href="https://github.com/Yoddikko/ASL-Recognizer/stargazers" title="16 stars"><img src="https://api.iconify.design/lucide:star.svg?color=%23F1C40F" width="15" height="15" alt="Stars">&nbsp;<sub><strong>16</strong></sub></a>&nbsp;&nbsp;<a href="https://github.com/Yoddikko/ASL-Recognizer/forks" title="1 forks"><img src="https://api.iconify.design/lucide:git-fork.svg?color=%238B949E" width="15" height="15" alt="Forks">&nbsp;<sub><strong>1</strong></sub></a><!-- repo-stats:Yoddikko/ASL-Recognizer:end --><br>
+      <a href="https://github.com/Yoddikko/ASL-Recognizer"><strong>ASL Recognizer</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ASL-Recognizer:start --><span title="16 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>16</strong></span>&nbsp;&nbsp;&nbsp;<span title="1 fork"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/ASL-Recognizer:end --><br>
       An app that analyzes camera frames and recognizes the American Sign Language alphabet using a custom machine-learning model.<br>
       <sub>Swift · SwiftUI · Vision · AVFoundation · Machine Learning</sub>
     </td>
@@ -239,7 +239,7 @@
       <img src="https://raw.githubusercontent.com/Yoddikko/Be-Charge-Host-Hackaton2022/main/Be_Charge_Host/Be_Charge_Host/Assets.xcassets/AppIcon.appiconset/1024.png" width="48" alt="Be Charge Host icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/Be-Charge-Host-Hackaton2022"><strong>Be Charge Host</strong></a> <!-- repo-stats:Yoddikko/Be-Charge-Host-Hackaton2022:start --><!-- repo-stats:Yoddikko/Be-Charge-Host-Hackaton2022:end --><br>
+      <a href="https://github.com/Yoddikko/Be-Charge-Host-Hackaton2022"><strong>Be Charge Host</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/Be-Charge-Host-Hackaton2022:start --><!-- repo-stats:Yoddikko/Be-Charge-Host-Hackaton2022:end --><br>
       A Big Hack 2022 finalist project for the Eni challenge: an iOS prototype that lets private charging-station owners share availability, manage bookings, and receive payments from EV drivers.<br>
       <sub>Swift · iOS · Xcode</sub>
     </td>
@@ -257,7 +257,7 @@
       <img src="https://user-images.githubusercontent.com/92546954/174389966-83dc6fba-6ad0-4d07-9c90-77c05bf48559.png" width="48" alt="DropDown icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/DropDown"><strong>DropDown</strong></a> <!-- repo-stats:Yoddikko/DropDown:start --><a href="https://github.com/Yoddikko/DropDown/stargazers" title="6 stars"><img src="https://api.iconify.design/lucide:star.svg?color=%23F1C40F" width="15" height="15" alt="Stars">&nbsp;<sub><strong>6</strong></sub></a><!-- repo-stats:Yoddikko/DropDown:end --><br>
+      <a href="https://github.com/Yoddikko/DropDown"><strong>DropDown</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/DropDown:start --><span title="6 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>6</strong></span><!-- repo-stats:Yoddikko/DropDown:end --><br>
       A Swift package that creates a curtain-style drop-down view that can be dismissed by dragging it upward.<br>
       <sub>Swift · SwiftUI · Swift Package Manager</sub>
     </td>
