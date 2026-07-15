@@ -92,6 +92,181 @@
 ---
 
 <h2 align="center">
+  <img src="https://api.iconify.design/lucide:folder-kanban.svg?color=%23ffffff" width="22" alt="Projects icon">
+  Projects
+</h2>
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:rocket.svg?color=%23FF6B6B" width="20" alt="Main projects icon">
+  Main Projects I'm Working On
+</h3>
+
+<p align="center"><sub>(Many of the projects I am currently working on are private at the moment.)</sub></p>
+
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://github.com/user-attachments/assets/c964b327-f5e2-4929-97df-0834926c944f" width="48" alt="KasetPlus icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a><br>
+      A native macOS client for YouTube and YouTube Music with AdBlock, SponsorBlock, Return YouTube Dislike, on-device video summaries, lyrics search, media downloads, additional playback controls, comment search, and a cleaner watch-page experience.<br>
+      <sub>Swift · SwiftUI · macOS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:terminal-square.svg?color=%232088FF" width="44" alt="Terminal Portfolio icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a><br>
+      A personal portfolio designed as an interactive terminal experience.<br>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:orbit.svg?color=%2300BCD4" width="20" alt="Side projects icon">
+  Side Projects
+</h3>
+
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23F1C40F" width="44" alt="Automercatorum icon">
+    </td>
+    <td>
+      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a><br>
+      A collection of desktop, web, and automation tools built to streamline university study workflows, including course-material downloads and other student utilities.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:book-open.svg?color=%23007AFF" width="44" alt="AirBook icon">
+    </td>
+    <td>
+      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a><br>
+      An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management and Bluetooth Low Energy synchronization.
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:globe-2.svg?color=%23E34F26" width="44" alt="GulliverWeb icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/GulliverWeb"><strong>GulliverWeb</strong></a><br>
+      A lightweight web side project built with HTML.<br>
+      <sub>HTML</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:archive.svg?color=%2395A5A6" width="20" alt="Archived projects icon">
+  Archived Projects
+</h3>
+
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:message-circle-code.svg?color=%23F05138" width="44" alt="yoddChatGPT icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a><br>
+      A discontinued, free, and open-source ChatGPT client for iOS, featuring chat, image generation, a customizable interface, and multilingual support.<br>
+      <sub>Swift · iOS · MVVM · OpenAI API</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:wrench.svg?color=%23E67E22" width="20" alt="Tools icon">
+  Tools
+</h3>
+
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:bot.svg?color=%238E44AD" width="44" alt="Token tool icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a><br>
+      An experimental JavaScript project aimed at reducing token spending in AI-assisted coding workflows.<br>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:activity.svg?color=%234CAF50" width="44" alt="Motion data icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData"><strong>GetGyroAndAccelerometerData</strong></a><br>
+      A SwiftUI utility that records gyroscope and accelerometer data through Core Motion and exports the captured values to CSV files.<br>
+      <sub>Swift · SwiftUI · Core Motion · CSV</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:trophy.svg?color=%23F1C40F" width="20" alt="Hackathons and challenges icon">
+  Hackathons / Challenges
+</h3>
+
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:leaf.svg?color=%234CAF50" width="44" alt="Now icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/Now"><strong>Now</strong></a><br>
+      <strong>WWDC23 Swift Student Challenge Winner.</strong> A short, reusable SwiftUI experience designed as a safe space for reflection, relaxation, and present-moment awareness.<br>
+      <sub>Swift · SwiftUI · AVFoundation · Core Data · MVVM</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://user-images.githubusercontent.com/92546954/161830840-5317e76a-1109-4ceb-9f61-6e949c498a8d.png" width="48" alt="ASL Recognizer icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/ASL-Recognizer"><strong>ASL Recognizer</strong></a><br>
+      An app that analyzes camera frames and recognizes the American Sign Language alphabet using a custom machine-learning model.<br>
+      <sub>Swift · SwiftUI · Vision · AVFoundation · Machine Learning</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:battery-charging.svg?color=%2300A86B" width="44" alt="Be Charge Host icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/Be-Charge-Host-Hackaton2022"><strong>Be Charge Host</strong></a><br>
+      A Big Hack 2022 finalist project for the Eni challenge: an iOS prototype that lets private charging-station owners share availability, manage bookings, and receive payments from EV drivers.<br>
+      <sub>Swift · iOS · Xcode</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">
+  <img src="https://api.iconify.design/lucide:package.svg?color=%23F05138" width="20" alt="Packages icon">
+  Packages
+</h3>
+
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://user-images.githubusercontent.com/92546954/174389966-83dc6fba-6ad0-4d07-9c90-77c05bf48559.png" width="48" alt="DropDown icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/DropDown"><strong>DropDown</strong></a><br>
+      A Swift package that creates a curtain-style drop-down view that can be dismissed by dragging it upward.<br>
+      <sub>Swift · SwiftUI · Swift Package Manager</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">
   <img src="https://api.iconify.design/lucide:chart-no-axes-column-increasing.svg?color=%23ffffff" width="22" alt="GitHub Stats icon">
   GitHub Stats
 </h2>
