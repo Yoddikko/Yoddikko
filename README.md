@@ -156,7 +156,7 @@
     </td>
     <td>
       <a href="https://github.com/Yoddikko/GulliverWeb"><strong>GulliverWeb</strong></a><br>
-      A lightweight web side project built with HTML.<br>
+      iOS position spoofer app for MacOS<br>
       <sub>HTML</sub>
     </td>
   </tr>
