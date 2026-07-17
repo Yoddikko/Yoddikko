@@ -109,7 +109,7 @@
       <img src="https://github.com/user-attachments/assets/c964b327-f5e2-4929-97df-0834926c944f" width="48" alt="KasetPlus icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
+      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="3 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
       A native macOS client for YouTube and YouTube Music with AdBlock, SponsorBlock, Return YouTube Dislike, on-device video summaries, lyrics search, media downloads, additional playback controls, comment search, and a cleaner watch-page experience. (fork) <br>
       <sub>Swift · SwiftUI · macOS</sub>
     </td>
@@ -146,7 +146,7 @@
       <img src="https://avatars.githubusercontent.com/u/293909643?v=4" width="48" alt="AirBook for CrossPoint icon">
     </td>
     <td>
-      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="1 star"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>1</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
+      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
       An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management and Bluetooth Low Energy synchronization.
     </td>
   </tr>
