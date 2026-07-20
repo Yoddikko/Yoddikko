@@ -202,7 +202,7 @@
     </td>
     <td>
       <a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData"><strong>GetGyroAndAccelerometerData</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:start --><span title="3 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:end --><br>
-      A SwiftUI utility that records gyroscope and accelerometer data through Core Motion and exports the captured values to CSV files.<br>
+      A SwiftUI utility that records gyroscope and accelerometer data through Core Motion and exports the captured values to CSV files (useful way to get data for LLM trainings).<br>
       <sub>Swift · SwiftUI · Core Motion · CSV</sub>
     </td>
   </tr>
