@@ -206,6 +206,16 @@
       <sub>Swift · SwiftUI · Core Motion · CSV</sub>
     </td>
   </tr>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://github.com/user-attachments/assets/832c6a8f-f6b1-4332-aa59-f1048f064a34" width="48" alt="iAnyGo Trial Reset icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/ianygo-trial-reset"><strong>iAnyGo Trial Reset</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ianygo-trial-reset:start --><!-- repo-stats:Yoddikko/ianygo-trial-reset:end --><br>
+      A macOS utility that resets and patches the iAnyGo v4.11.8 trial for research and educational use.<br>
+      <sub>Shell · Swift · Python · macOS</sub>
+    </td>
+  </tr>
 </table>
 
 <h3 align="center">
