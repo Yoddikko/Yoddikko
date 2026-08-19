@@ -119,7 +119,7 @@
       <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="terminal_portfolio icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/terminal_portfolio:start --><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
+      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/terminal_portfolio:start --><span title="1 star"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
       A personal portfolio designed as an interactive terminal experience.<br>
       <sub>JavaScript</sub>
     </td>
