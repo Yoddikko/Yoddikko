@@ -226,7 +226,7 @@
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%23FF6B6B" width="44" alt="scdownload icon">
+      <img src="https://github.com/user-attachments/assets/dc14bfc2-dce1-4fdd-8824-a9cce3b02373" width="48" alt="scdownload icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/scdownload"><strong>scdownload</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/scdownload:start --><!-- repo-stats:Yoddikko/scdownload:end --><br>
