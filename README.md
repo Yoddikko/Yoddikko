@@ -219,6 +219,24 @@
 </table>
 
 <h3 align="center">
+  <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238E44AD" width="20" alt="AI Skills icon">
+  AI Skills
+</h3>
+
+<table>
+  <tr>
+    <td width="72" align="center">
+      <img src="https://api.iconify.design/lucide:clapperboard.svg?color=%23FF6B6B" width="44" alt="scdownload icon">
+    </td>
+    <td>
+      <a href="https://github.com/Yoddikko/scdownload"><strong>scdownload</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/scdownload:start --><!-- repo-stats:Yoddikko/scdownload:end --><br>
+      A Claude Code skill that downloads a movie or TV episode by name (or TMDB id) via vixsrc.to, using yt-dlp for the HLS download and a macOS menu-bar progress indicator.<br>
+      <sub>Python · Claude Code · yt-dlp · HLS</sub>
+    </td>
+  </tr>
+</table>
+
+<h3 align="center">
   <img src="https://api.iconify.design/lucide:trophy.svg?color=%23F1C40F" width="20" alt="Hackathons and challenges icon">
   Hackathons / Challenges
 </h3>
