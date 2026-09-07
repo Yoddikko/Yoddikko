@@ -129,7 +129,8 @@
       <img src="https://github.com/user-attachments/assets/708c1287-84f7-4aaf-8a65-37628c1febdc" width="48" alt="Scilla icon"> 
     </td>
     <td>
-      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>    <img src="https://github.com/user-attachments/assets/53be3905-eb6d-4765-a512-7f8f2dee0ddc" width="16" height="16" alt="Testflight"><br> 
+      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>    <img src="https://github.com/user-attachments/assets/53be3905-eb6d-4765-a512-7f8f2dee0ddc" width="16" height="16" alt="Testflight">  <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/d5e0f4cb-b71b-475f-af73-6bc954393b9a" />
+  <br> 
       An app to organise your TV series and films: save titles and track your watch progress. Paired with your own server that follows Scilla's API, it also lets you stream films and series straight to your phone. Hey, maybe add this server: <a href="https://vixsrc.to">https://vixsrc.to</a> 😉<br>
       <sub>Swift · iOS</sub>
     </td>
