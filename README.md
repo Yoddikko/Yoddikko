@@ -150,7 +150,8 @@
       <img src="https://avatars.githubusercontent.com/u/285715765?v=4" width="48" alt="Automercatorum icon">
     </td>
     <td>
-      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Automercatorum:start --><!-- repo-stats:Automercatorum:end --><br>
+      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a> <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/e4b1dc5c-a57e-49cb-a13a-3f27a93fa50f" />
+&nbsp;&nbsp;&nbsp;<!-- repo-stats:Automercatorum:start --><!-- repo-stats:Automercatorum:end --><br>
       A collection of desktop, web, and automation tools built to streamline university study workflows, including course-material downloads and other student utilities.
     </td>
   </tr>
@@ -159,7 +160,8 @@
       <img src="https://avatars.githubusercontent.com/u/293909643?v=4" width="48" alt="AirBook for CrossPoint icon">
     </td>
     <td>
-      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
+      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a> <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/3f2ddd42-72ea-42e2-8a2c-ca26d4a98887" />
+ &nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
       An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management and Bluetooth Low Energy synchronization.
     </td>
   </tr>
