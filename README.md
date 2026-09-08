@@ -162,7 +162,7 @@
     <td>
       <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a> <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/3f2ddd42-72ea-42e2-8a2c-ca26d4a98887" />
  &nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
-      An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management and Bluetooth Low Energy synchronization.
+      An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management, Bluetooth Low Energy synchronization and ZLib integration hehe.
     </td>
   </tr>
   <tr>
