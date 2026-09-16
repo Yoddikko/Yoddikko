@@ -28,11 +28,9 @@
 
 <br>
 
-> If you made it this far, you probably deserve a slightly less polished version of me.
-
 ### 🔧 What I like to build
 
-I like taking things apart just to figure out how they work — and then, usually, putting them back together in a way the original author probably didn't intend.
+I like taking things apart just to figure out how they work, and then, usually, putting them back together in a way the original author probably didn't intend.
 
 I'm particularly into **iOS, Swift, automation, reverse engineering, and building weird little tools** that solve problems I could probably have solved manually in 10 minutes.
 
