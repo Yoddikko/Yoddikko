@@ -21,6 +21,45 @@
   I see myself as a versatile developer: wherever I am placed, I adapt quickly, find solutions, and find a way to deliver value.
 </p>
 
+<div align="center">
+
+<details>
+<summary><b>Wanna know more?</b></summary>
+
+<br>
+
+> If you made it this far, you probably deserve a slightly less polished version of me.
+
+### 🔧 What I like to build
+
+I like taking things apart just to figure out how they work — and then, usually, putting them back together in a way the original author probably didn't intend.
+
+I'm particularly into **iOS, Swift, automation, reverse engineering, and building weird little tools** that solve problems I could probably have solved manually in 10 minutes.
+
+### 🧠 What makes me curious
+
+I enjoy getting under the hood of things: APIs that aren't documented, systems that weren't meant to be modified, software that *almost* does what I want, and the occasional bug that turns into a three-day research project.
+Lately, I've also been spending more time around **AI agents, orchestration, developer tooling, and complex software architecture** — especially the part where you stop asking *"can this be done?"* and start asking *"how far can I push it?"*
+And yes, I have a suspicious amount of projects related to **YouTube, streaming, media, and custom clients**. 🏴‍☠️
+
+### 🧪 No particular niche
+
+I don't really have a single niche.
+I just like to build random things guided by my curiosity.
+
+### ❤️ Ethics
+
+Also,
+I don't really care about defending billion-dollar corporations.
+I care about **privacy, freedom, access to knowledge, and people**.
+I want to work somewhere where **human well-being matters more than profit**, and where ethics aren't just something written on a slide deck.
+
+<br>
+
+</details>
+
+</div>
+
 ---
 
 <h2 align="center">
