@@ -157,7 +157,8 @@ I want to work somewhere where **human well-being matters more than profit**, an
     </td>
     <td>
       <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/terminal_portfolio:start --><span title="1 star"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
-      A personal portfolio designed as an interactive terminal experience.<br>
+      A personal portfolio designed as an interactive terminal experience. <a href="https://yoddikko.github.io/terminal_portfolio/">Check it here</a>
+<br>
       <sub>JavaScript</sub>
     </td>
   </tr>
