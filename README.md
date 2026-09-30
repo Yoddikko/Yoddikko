@@ -226,7 +226,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://raw.githubusercontent.com/Yoddikko/yoddChatGPT/main/YoddChatGpt/Assets.xcassets/AppIcon.appiconset/App_store_1024_1x.png" width="48" alt="yoddChatGPT icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/yoddChatGPT:start --><span title="87 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>87</strong></span>&nbsp;&nbsp;&nbsp;<span title="12 forks"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>12</strong></span><!-- repo-stats:Yoddikko/yoddChatGPT:end --><br>
+      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/yoddChatGPT:start --><span title="86 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>86</strong></span>&nbsp;&nbsp;&nbsp;<span title="11 forks"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>11</strong></span><!-- repo-stats:Yoddikko/yoddChatGPT:end --><br>
       A discontinued, free, and open-source ChatGPT client for iOS, featuring chat, image generation, a customizable interface, and multilingual support.<br>
       <sub>Swift · iOS · MVVM · OpenAI API</sub>
     </td>
