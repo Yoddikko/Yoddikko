@@ -164,10 +164,10 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="Scilla icon"> 
+      <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="Scilla icon"> 
     </td>
     <td>
-      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>    <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="16" height="16" alt="Testflight">  <img width="16" height="16" alt="image" src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" />
+      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>    <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-32.png" width="16" height="16" alt="Testflight">  <img width="16" height="16" alt="image" src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-32.png" />
   <br> 
       An app to organise your TV series and films: save titles and track your watch progress. Paired with your own server that follows Scilla's API, it also lets you stream films and series straight to your phone. Hey, maybe add this server: <a href="https://vixsrc.to">https://vixsrc.to</a> 😉<br>
       <sub>Swift · iOS</sub>
@@ -241,7 +241,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="TokenMaxxxxing icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/YoddWatch/main/YoddWatch/Assets.xcassets/AppIcon.appiconset/IconComposerProject-iOS-Default-1024x1024@1x.png" width="48" alt="TokenMaxxxxing icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:start --><!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:end --><br>
@@ -261,7 +261,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="iAnyGo Trial Reset icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/YoddWatch/main/YoddWatch/Assets.xcassets/AppIcon.appiconset/IconComposerProject-iOS-Default-1024x1024@1x.png" width="48" alt="iAnyGo Trial Reset icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/ianygo-trial-reset"><strong>iAnyGo Trial Reset</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ianygo-trial-reset:start --><!-- repo-stats:Yoddikko/ianygo-trial-reset:end --><br>
@@ -279,7 +279,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="scdownload icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="scdownload icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/scdownload"><strong>scdownload</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/scdownload:start --><!-- repo-stats:Yoddikko/scdownload:end --><br>
