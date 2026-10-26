@@ -143,7 +143,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://github.com/user-attachments/assets/c964b327-f5e2-4929-97df-0834926c944f" width="48" alt="KasetPlus icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/kasetPlus/main/website/assets/app-icon.png" width="48" alt="KasetPlus icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="36 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>36</strong></span>&nbsp;&nbsp;&nbsp;<span title="3 forks"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
@@ -164,10 +164,10 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://github.com/user-attachments/assets/708c1287-84f7-4aaf-8a65-37628c1febdc" width="48" alt="Scilla icon"> 
+      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="Scilla icon"> 
     </td>
     <td>
-      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>    <img src="https://github.com/user-attachments/assets/53be3905-eb6d-4765-a512-7f8f2dee0ddc" width="16" height="16" alt="Testflight">  <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/d5e0f4cb-b71b-475f-af73-6bc954393b9a" />
+      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>    <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="16" height="16" alt="Testflight">  <img width="16" height="16" alt="image" src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" />
   <br> 
       An app to organise your TV series and films: save titles and track your watch progress. Paired with your own server that follows Scilla's API, it also lets you stream films and series straight to your phone. Hey, maybe add this server: <a href="https://vixsrc.to">https://vixsrc.to</a> 😉<br>
       <sub>Swift · iOS</sub>
@@ -188,7 +188,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://avatars.githubusercontent.com/u/285715765?v=4" width="48" alt="Automercatorum icon">
     </td>
     <td>
-      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a> <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/e4b1dc5c-a57e-49cb-a13a-3f27a93fa50f" />
+      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a> <img width="16" height="16" alt="image" src="https://avatars.githubusercontent.com/u/285715765?v=4" />
 &nbsp;&nbsp;&nbsp;<!-- repo-stats:Automercatorum:start --><!-- repo-stats:Automercatorum:end --><br>
       A collection of desktop, web, and automation tools built to streamline university study workflows, including course-material downloads and other student utilities.
     </td>
@@ -198,7 +198,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://avatars.githubusercontent.com/u/293909643?v=4" width="48" alt="AirBook for CrossPoint icon">
     </td>
     <td>
-      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a> <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/3f2ddd42-72ea-42e2-8a2c-ca26d4a98887" />
+      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a> <img width="16" height="16" alt="image" src="https://avatars.githubusercontent.com/u/293909643?v=4" />
  &nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
       An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management, Bluetooth Low Energy synchronization and ZLib integration hehe.
     </td>
@@ -241,7 +241,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://github.com/user-attachments/assets/8d9a2be2-986a-4132-a677-5118268314e3" width="48" alt="TokenMaxxxxing icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="TokenMaxxxxing icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:start --><!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:end --><br>
@@ -261,7 +261,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://github.com/user-attachments/assets/832c6a8f-f6b1-4332-aa59-f1048f064a34" width="48" alt="iAnyGo Trial Reset icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="iAnyGo Trial Reset icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/ianygo-trial-reset"><strong>iAnyGo Trial Reset</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ianygo-trial-reset:start --><!-- repo-stats:Yoddikko/ianygo-trial-reset:end --><br>
@@ -279,7 +279,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://github.com/user-attachments/assets/dc14bfc2-dce1-4fdd-8824-a9cce3b02373" width="48" alt="scdownload icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="scdownload icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/scdownload"><strong>scdownload</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/scdownload:start --><!-- repo-stats:Yoddikko/scdownload:end --><br>
