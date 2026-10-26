@@ -61,12 +61,10 @@ I want to work somewhere where **human well-being matters more than profit**, an
 ---
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:layers.svg?color=%23ffffff" width="22" alt="Tech Stack icon">
   Tech Stack
 </h2>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:badge-check.svg?color=%234CAF50" width="20" alt="QA Automation icon">
   QA Automation & Testing
 </h3>
 
@@ -92,7 +90,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </p>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:terminal.svg?color=%232088FF" width="20" alt="Development icon">
   Development & DevOps
 </h3>
 
@@ -105,7 +102,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </p>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238E44AD" width="20" alt="AI icon">
   AI & Automation
 </h3>
 
@@ -116,7 +112,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </p>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:pencil-ruler.svg?color=%23F24E1E" width="20" alt="Design icon">
   Design & Collaboration
 </h3>
 
@@ -129,12 +124,10 @@ I want to work somewhere where **human well-being matters more than profit**, an
 ---
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:folder-kanban.svg?color=%23ffffff" width="22" alt="Projects icon">
   Projects
 </h2>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:rocket.svg?color=%23FF6B6B" width="20" alt="Main projects icon">
   Main Projects I'm Working On
 </h3>
 
@@ -167,7 +160,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="Scilla icon"> 
     </td>
     <td>
-      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>    <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-32.png" width="16" height="16" alt="Testflight">  <img width="16" height="16" alt="image" src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-32.png" />
+      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>
   <br> 
       An app to organise your TV series and films: save titles and track your watch progress. Paired with your own server that follows Scilla's API, it also lets you stream films and series straight to your phone. Hey, maybe add this server: <a href="https://vixsrc.to">https://vixsrc.to</a> 😉<br>
       <sub>Swift · iOS</sub>
@@ -176,7 +169,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:orbit.svg?color=%2300BCD4" width="20" alt="Side projects icon">
   Side Projects
 </h3>
   
@@ -188,7 +180,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://avatars.githubusercontent.com/u/285715765?v=4" width="48" alt="Automercatorum icon">
     </td>
     <td>
-      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a> <img width="16" height="16" alt="image" src="https://avatars.githubusercontent.com/u/285715765?v=4" />
+      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a>
 &nbsp;&nbsp;&nbsp;<!-- repo-stats:Automercatorum:start --><!-- repo-stats:Automercatorum:end --><br>
       A collection of desktop, web, and automation tools built to streamline university study workflows, including course-material downloads and other student utilities.
     </td>
@@ -198,7 +190,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://avatars.githubusercontent.com/u/293909643?v=4" width="48" alt="AirBook for CrossPoint icon">
     </td>
     <td>
-      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a> <img width="16" height="16" alt="image" src="https://avatars.githubusercontent.com/u/293909643?v=4" />
+      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a>
  &nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
       An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management, Bluetooth Low Energy synchronization and ZLib integration hehe.
     </td>
@@ -216,7 +208,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:archive.svg?color=%2395A5A6" width="20" alt="Archived projects icon">
   Archived Projects
 </h3>
 
@@ -234,14 +225,13 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:wrench.svg?color=%23E67E22" width="20" alt="Tools icon">
   Tools
 </h3>
 
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="TokenMaxxxxing icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek/main/logo.png" width="48" alt="TokenMaxxxxing icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:start --><!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:end --><br>
@@ -261,7 +251,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="iAnyGo Trial Reset icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/ianygo-trial-reset"><strong>iAnyGo Trial Reset</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ianygo-trial-reset:start --><!-- repo-stats:Yoddikko/ianygo-trial-reset:end --><br>
@@ -272,14 +261,12 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:sparkles.svg?color=%238E44AD" width="20" alt="AI Skills icon">
   AI Skills
 </h3>
 
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="scdownload icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/scdownload"><strong>scdownload</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/scdownload:start --><!-- repo-stats:Yoddikko/scdownload:end --><br>
@@ -290,7 +277,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:trophy.svg?color=%23F1C40F" width="20" alt="Hackathons and challenges icon">
   Hackathons / Challenges
 </h3>
 
@@ -328,7 +314,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  <img src="https://api.iconify.design/lucide:package.svg?color=%23F05138" width="20" alt="Packages icon">
   Packages
 </h3>
 
@@ -348,7 +333,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
 ---
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:chart-no-axes-column-increasing.svg?color=%23ffffff" width="22" alt="GitHub Stats icon">
   GitHub Stats
 </h2>
 
