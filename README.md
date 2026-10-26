@@ -61,11 +61,11 @@ I want to work somewhere where **human well-being matters more than profit**, an
 ---
 
 <h2 align="center">
-  Tech Stack
+  🧩 Tech Stack
 </h2>
 
 <h3 align="center">
-  QA Automation & Testing
+  ✅ QA Automation & Testing
 </h3>
 
 <p align="center">
@@ -78,8 +78,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </p>
 
 <h3 align="center">
-  <img src="https://cdn.simpleicons.org/apple/ffffff" width="20" alt="iOS icon">
-  iOS & Mobile Development
+  🍎 iOS & Mobile Development
 </h3>
 
 <p align="center">
@@ -90,7 +89,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </p>
 
 <h3 align="center">
-  Development & DevOps
+  💻 Development & DevOps
 </h3>
 
 <p align="center">
@@ -102,7 +101,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </p>
 
 <h3 align="center">
-  AI & Automation
+  ✨ AI & Automation
 </h3>
 
 <p align="center">
@@ -112,7 +111,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </p>
 
 <h3 align="center">
-  Design & Collaboration
+  🎨 Design & Collaboration
 </h3>
 
 <p align="center">
@@ -124,11 +123,11 @@ I want to work somewhere where **human well-being matters more than profit**, an
 ---
 
 <h2 align="center">
-  Projects
+  📁 Projects
 </h2>
 
 <h3 align="center">
-  Main Projects I'm Working On
+  🚀 Main Projects I'm Working On
 </h3>
 
 <p align="center"><sub>(Many of the projects I am currently working on are private at the moment.)</sub></p>
@@ -139,7 +138,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://raw.githubusercontent.com/Yoddikko/kasetPlus/main/website/assets/app-icon.png" width="48" alt="KasetPlus icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="36 stars">&nbsp;<strong>36</strong></span>&nbsp;&nbsp;&nbsp;<span title="3 forks">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
+      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="36 stars"><img src="assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>36</strong></span>&nbsp;&nbsp;&nbsp;<span title="3 forks"><img src="assets/icons/fork.svg" width="16" height="16" alt="Forks">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
       A native macOS client for YouTube and YouTube Music with AdBlock, SponsorBlock, Return YouTube Dislike, on-device video summaries, lyrics search, media downloads, additional playback controls, comment search, and a cleaner watch-page experience. (fork) <br>
       <sub>Swift · SwiftUI · macOS</sub>
     </td>
@@ -149,7 +148,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="terminal_portfolio icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/terminal_portfolio:start --><span title="1 star">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
+      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/terminal_portfolio:start --><span title="1 star"><img src="assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
       A personal portfolio designed as an interactive terminal experience. <a href="https://yoddikko.github.io/terminal_portfolio/">Check it here</a>
 <br>
       <sub>JavaScript</sub>
@@ -157,9 +156,10 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
+      <img src="assets/icons/film.svg" width="48" height="48" alt="Scilla app icon">
     </td>
     <td>
-      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>
+      <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a> · <a href="https://testflight.apple.com/join/jYNJmhu6">TestFlight</a>
   <br> 
       An app to organise your TV series and films: save titles and track your watch progress. Paired with your own server that follows Scilla's API, it also lets you stream films and series straight to your phone. Hey, maybe add this server: <a href="https://vixsrc.to">https://vixsrc.to</a> 😉<br>
       <sub>Swift · iOS</sub>
@@ -168,10 +168,8 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  Side Projects
+  🪐 Side Projects
 </h3>
-  
-</table>
 
 <table>
   <tr>
@@ -179,7 +177,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://avatars.githubusercontent.com/u/285715765?v=4" width="48" alt="Automercatorum icon">
     </td>
     <td>
-      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a>
+      <a href="https://github.com/Automercatorum"><strong>Automercatorum</strong></a> 📁
 &nbsp;&nbsp;&nbsp;<!-- repo-stats:Automercatorum:start --><!-- repo-stats:Automercatorum:end --><br>
       A collection of desktop, web, and automation tools built to streamline university study workflows, including course-material downloads and other student utilities.
     </td>
@@ -189,8 +187,8 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://avatars.githubusercontent.com/u/293909643?v=4" width="48" alt="AirBook for CrossPoint icon">
     </td>
     <td>
-      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a>
- &nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
+      <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a> 📁
+ &nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars"><img src="assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
       An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management, Bluetooth Low Energy synchronization and ZLib integration hehe.
     </td>
   </tr>
@@ -207,7 +205,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  Archived Projects
+  🗄️ Archived Projects
 </h3>
 
 <table>
@@ -216,7 +214,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://raw.githubusercontent.com/Yoddikko/yoddChatGPT/main/YoddChatGpt/Assets.xcassets/AppIcon.appiconset/App_store_1024_1x.png" width="48" alt="yoddChatGPT icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/yoddChatGPT:start --><span title="85 stars">&nbsp;<strong>85</strong></span>&nbsp;&nbsp;&nbsp;<span title="11 forks">&nbsp;<strong>11</strong></span><!-- repo-stats:Yoddikko/yoddChatGPT:end --><br>
+      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/yoddChatGPT:start --><span title="85 stars"><img src="assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>85</strong></span>&nbsp;&nbsp;&nbsp;<span title="11 forks"><img src="assets/icons/fork.svg" width="16" height="16" alt="Forks">&nbsp;<strong>11</strong></span><!-- repo-stats:Yoddikko/yoddChatGPT:end --><br>
       A discontinued, free, and open-source ChatGPT client for iOS, featuring chat, image generation, a customizable interface, and multilingual support.<br>
       <sub>Swift · iOS · MVVM · OpenAI API</sub>
     </td>
@@ -224,13 +222,13 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  Tools
+  🔧 Tools
 </h3>
 
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="assets/icons/tokenmaxxing.svg" width="48" alt="TokenMaxxxxing icon">
+      <img src="https://github.com/user-attachments/assets/8d9a2be2-986a-4132-a677-5118268314e3" width="48" alt="TokenMaxxxxing icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:start --><!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:end --><br>
@@ -240,17 +238,17 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      
+      <img src="assets/icons/activity.svg" width="44" height="44" alt="Motion data icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData"><strong>GetGyroAndAccelerometerData</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:start --><span title="3 stars">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:end --><br>
+      <a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData"><strong>GetGyroAndAccelerometerData</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:start --><span title="3 stars"><img src="assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:end --><br>
       A SwiftUI utility that records gyroscope and accelerometer data through Core Motion and exports the captured values to CSV files (useful way to get data for LLM trainings).<br>
       <sub>Swift · SwiftUI · Core Motion · CSV</sub>
     </td>
   </tr>
   <tr>
     <td width="72" align="center">
-    <img src="assets/icons/ianygo-trial-reset.svg" width="48" alt="iAnyGo Trial Reset icon">
+    <img src="https://github.com/user-attachments/assets/832c6a8f-f6b1-4332-aa59-f1048f064a34" width="48" alt="iAnyGo Trial Reset icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/ianygo-trial-reset"><strong>iAnyGo Trial Reset</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ianygo-trial-reset:start --><!-- repo-stats:Yoddikko/ianygo-trial-reset:end --><br>
@@ -261,13 +259,13 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  AI Skills
+  ✨ AI Skills
 </h3>
 
 <table>
   <tr>
     <td width="72" align="center">
-    <img src="assets/icons/scdownload.svg" width="48" alt="scdownload skill icon">
+    <img src="https://github.com/user-attachments/assets/dc14bfc2-dce1-4fdd-8824-a9cce3b02373" width="48" alt="scdownload skill icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/scdownload"><strong>scdownload</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/scdownload:start --><!-- repo-stats:Yoddikko/scdownload:end --><br>
@@ -278,7 +276,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  Hackathons / Challenges
+  🏆 Hackathons / Challenges
 </h3>
 
 <table>
@@ -297,7 +295,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://user-images.githubusercontent.com/92546954/161830840-5317e76a-1109-4ceb-9f61-6e949c498a8d.png" width="48" alt="ASL Recognizer icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/ASL-Recognizer"><strong>ASL Recognizer</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ASL-Recognizer:start --><span title="16 stars">&nbsp;<strong>16</strong></span>&nbsp;&nbsp;&nbsp;<span title="1 fork">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/ASL-Recognizer:end --><br>
+      <a href="https://github.com/Yoddikko/ASL-Recognizer"><strong>ASL Recognizer</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ASL-Recognizer:start --><span title="16 stars"><img src="assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>16</strong></span>&nbsp;&nbsp;&nbsp;<span title="1 fork"><img src="assets/icons/fork.svg" width="16" height="16" alt="Forks">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/ASL-Recognizer:end --><br>
       An app that analyzes camera frames and recognizes the American Sign Language alphabet using a custom machine-learning model.<br>
       <sub>Swift · SwiftUI · Vision · AVFoundation · Machine Learning</sub>
     </td>
@@ -315,7 +313,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 </table>
 
 <h3 align="center">
-  Packages
+  📦 Packages
 </h3>
 
 <table>
@@ -324,7 +322,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://user-images.githubusercontent.com/92546954/174389966-83dc6fba-6ad0-4d07-9c90-77c05bf48559.png" width="48" alt="DropDown icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/DropDown"><strong>DropDown</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/DropDown:start --><span title="6 stars">&nbsp;<strong>6</strong></span><!-- repo-stats:Yoddikko/DropDown:end --><br>
+      <a href="https://github.com/Yoddikko/DropDown"><strong>DropDown</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/DropDown:start --><span title="6 stars"><img src="assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>6</strong></span><!-- repo-stats:Yoddikko/DropDown:end --><br>
       A Swift package that creates a curtain-style drop-down view that can be dismissed by dragging it upward.<br>
       <sub>Swift · SwiftUI · Swift Package Manager</sub>
     </td>
@@ -334,7 +332,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 ---
 
 <h2 align="center">
-  GitHub Stats
+  📊 GitHub Stats
 </h2>
 
 <br>
