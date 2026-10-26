@@ -46,9 +46,9 @@ def org_totals(name, token):
 def render(stars,forks):
  out=[]
  if stars:
-  out.append(f'<span title="{stars} {"star" if stars==1 else "stars"}"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>{stars}</strong></span>')
+  out.append(f'<span title="{stars} {"star" if stars==1 else "stars"}"><img src="https://raw.githubusercontent.com/Yoddikko/Yoddikko/main/assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>{stars}</strong></span>')
  if forks:
-  out.append(f'<span title="{forks} {"fork" if forks==1 else "forks"}"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>{forks}</strong></span>')
+  out.append(f'<span title="{forks} {"fork" if forks==1 else "forks"}"><img src="https://raw.githubusercontent.com/Yoddikko/Yoddikko/main/assets/icons/fork.svg" width="16" height="16" alt="Forks">&nbsp;<strong>{forks}</strong></span>')
  return '&nbsp;&nbsp;&nbsp;'.join(out)
 
 def update_block(text,key,url,value):
