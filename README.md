@@ -156,7 +156,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="assets/icons/film.svg" width="48" height="48" alt="Scilla app icon">
+      <img src="assets/icons/scilla.png" width="48" height="48" alt="Scilla app icon">
     </td>
     <td>
       <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a> · <a href="https://testflight.apple.com/join/jYNJmhu6">TestFlight</a>
