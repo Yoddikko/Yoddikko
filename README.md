@@ -241,7 +241,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
 <table>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/YoddWatch/main/YoddWatch/Assets.xcassets/AppIcon.appiconset/IconComposerProject-iOS-Default-1024x1024@1x.png" width="48" alt="TokenMaxxxxing icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="TokenMaxxxxing icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek"><strong>TokenMaxxxxing-Claude-Code-X-Deepseek</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:start --><!-- repo-stats:Yoddikko/TokenMaxxxxing-Claude-Code-X-Deepseek:end --><br>
@@ -261,7 +261,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/YoddWatch/main/YoddWatch/Assets.xcassets/AppIcon.appiconset/IconComposerProject-iOS-Default-1024x1024@1x.png" width="48" alt="iAnyGo Trial Reset icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="iAnyGo Trial Reset icon">
     </td>
     <td>
       <a href="https://github.com/Yoddikko/ianygo-trial-reset"><strong>iAnyGo Trial Reset</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ianygo-trial-reset:start --><!-- repo-stats:Yoddikko/ianygo-trial-reset:end --><br>
