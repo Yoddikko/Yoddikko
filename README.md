@@ -139,7 +139,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://raw.githubusercontent.com/Yoddikko/kasetPlus/main/website/assets/app-icon.png" width="48" alt="KasetPlus icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="36 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>36</strong></span>&nbsp;&nbsp;&nbsp;<span title="3 forks"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
+      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="36 stars">&nbsp;<strong>36</strong></span>&nbsp;&nbsp;&nbsp;<span title="3 forks">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
       A native macOS client for YouTube and YouTube Music with AdBlock, SponsorBlock, Return YouTube Dislike, on-device video summaries, lyrics search, media downloads, additional playback controls, comment search, and a cleaner watch-page experience. (fork) <br>
       <sub>Swift · SwiftUI · macOS</sub>
     </td>
@@ -149,7 +149,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://raw.githubusercontent.com/Yoddikko/terminal_portfolio/main/assets/apple-touch-icon.png" width="48" alt="terminal_portfolio icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/terminal_portfolio:start --><span title="1 star"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
+      <a href="https://github.com/Yoddikko/terminal_portfolio"><strong>terminal_portfolio</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/terminal_portfolio:start --><span title="1 star">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/terminal_portfolio:end --><br>
       A personal portfolio designed as an interactive terminal experience. <a href="https://yoddikko.github.io/terminal_portfolio/">Check it here</a>
 <br>
       <sub>JavaScript</sub>
@@ -157,7 +157,6 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/ScillaDownloadManager/scilla-download-manager-implementation/assets/icon-512.png" width="48" alt="Scilla icon"> 
     </td>
     <td>
       <a href="https://testflight.apple.com/join/jYNJmhu6"><strong>Scilla</strong></a>
@@ -191,7 +190,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
     </td>
     <td>
       <a href="https://github.com/AirBook-for-CrossPoint"><strong>AirBook for CrossPoint</strong></a>
- &nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
+ &nbsp;&nbsp;&nbsp;<!-- repo-stats:AirBook-for-CrossPoint:start --><span title="2 stars">&nbsp;<strong>2</strong></span><!-- repo-stats:AirBook-for-CrossPoint:end --><br>
       An iOS companion app and supporting toolset for the CrossPoint + AirBook e-reader ecosystem, with library management, Bluetooth Low Energy synchronization and ZLib integration hehe.
     </td>
   </tr>
@@ -217,7 +216,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://raw.githubusercontent.com/Yoddikko/yoddChatGPT/main/YoddChatGpt/Assets.xcassets/AppIcon.appiconset/App_store_1024_1x.png" width="48" alt="yoddChatGPT icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/yoddChatGPT:start --><span title="85 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>85</strong></span>&nbsp;&nbsp;&nbsp;<span title="11 forks"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>11</strong></span><!-- repo-stats:Yoddikko/yoddChatGPT:end --><br>
+      <a href="https://github.com/Yoddikko/yoddChatGPT"><strong>yoddChatGPT</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/yoddChatGPT:start --><span title="85 stars">&nbsp;<strong>85</strong></span>&nbsp;&nbsp;&nbsp;<span title="11 forks">&nbsp;<strong>11</strong></span><!-- repo-stats:Yoddikko/yoddChatGPT:end --><br>
       A discontinued, free, and open-source ChatGPT client for iOS, featuring chat, image generation, a customizable interface, and multilingual support.<br>
       <sub>Swift · iOS · MVVM · OpenAI API</sub>
     </td>
@@ -241,10 +240,10 @@ I want to work somewhere where **human well-being matters more than profit**, an
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://api.iconify.design/lucide:activity.svg?color=%234CAF50" width="44" alt="Motion data icon">
+      
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData"><strong>GetGyroAndAccelerometerData</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:start --><span title="3 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:end --><br>
+      <a href="https://github.com/Yoddikko/GetGyroAndAccelerometerData"><strong>GetGyroAndAccelerometerData</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:start --><span title="3 stars">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/GetGyroAndAccelerometerData:end --><br>
       A SwiftUI utility that records gyroscope and accelerometer data through Core Motion and exports the captured values to CSV files (useful way to get data for LLM trainings).<br>
       <sub>Swift · SwiftUI · Core Motion · CSV</sub>
     </td>
@@ -296,7 +295,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://user-images.githubusercontent.com/92546954/161830840-5317e76a-1109-4ceb-9f61-6e949c498a8d.png" width="48" alt="ASL Recognizer icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/ASL-Recognizer"><strong>ASL Recognizer</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ASL-Recognizer:start --><span title="16 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>16</strong></span>&nbsp;&nbsp;&nbsp;<span title="1 fork"><img src="https://api.iconify.design/octicon:repo-forked-16.svg?color=%238B949E" width="16" height="16" alt="Forks">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/ASL-Recognizer:end --><br>
+      <a href="https://github.com/Yoddikko/ASL-Recognizer"><strong>ASL Recognizer</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/ASL-Recognizer:start --><span title="16 stars">&nbsp;<strong>16</strong></span>&nbsp;&nbsp;&nbsp;<span title="1 fork">&nbsp;<strong>1</strong></span><!-- repo-stats:Yoddikko/ASL-Recognizer:end --><br>
       An app that analyzes camera frames and recognizes the American Sign Language alphabet using a custom machine-learning model.<br>
       <sub>Swift · SwiftUI · Vision · AVFoundation · Machine Learning</sub>
     </td>
@@ -323,7 +322,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
       <img src="https://user-images.githubusercontent.com/92546954/174389966-83dc6fba-6ad0-4d07-9c90-77c05bf48559.png" width="48" alt="DropDown icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/DropDown"><strong>DropDown</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/DropDown:start --><span title="6 stars"><img src="https://api.iconify.design/octicon:star-16.svg?color=%23F1C40F" width="16" height="16" alt="Stars">&nbsp;<strong>6</strong></span><!-- repo-stats:Yoddikko/DropDown:end --><br>
+      <a href="https://github.com/Yoddikko/DropDown"><strong>DropDown</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/DropDown:start --><span title="6 stars">&nbsp;<strong>6</strong></span><!-- repo-stats:Yoddikko/DropDown:end --><br>
       A Swift package that creates a curtain-style drop-down view that can be dismissed by dragging it upward.<br>
       <sub>Swift · SwiftUI · Swift Package Manager</sub>
     </td>
