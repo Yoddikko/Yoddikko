@@ -268,7 +268,7 @@ I want to work somewhere where **human well-being matters more than profit**, an
     <img src="https://github.com/user-attachments/assets/dc14bfc2-dce1-4fdd-8824-a9cce3b02373" width="48" alt="scdownload skill icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/scdownload"><strong>scdownload</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/scdownload:start --><!-- repo-stats:Yoddikko/scdownload:end --><br>
+      <a href="https://www.agensi.io/skills/movie-and-tv-shows-downloader-scdownload"><strong>scdownload</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/scdownload:start --><!-- repo-stats:Yoddikko/scdownload:end --><br>
       A Claude Code skill that downloads a movie or TV episode by name (or TMDB id) via vixsrc.to, using yt-dlp for the HLS download and a macOS menu-bar progress indicator.<br>
       <sub>Python · Claude Code · yt-dlp · HLS</sub>
     </td>
