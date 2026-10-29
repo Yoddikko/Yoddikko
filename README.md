@@ -50,7 +50,6 @@ I just like to build random things guided by my curiosity.
 Also,
 I don't really care about defending billion-dollar corporations.
 I care about **privacy, freedom, access to knowledge, and people**.
-I want to work somewhere where **human well-being matters more than profit**, and where ethics aren't just something written on a slide deck.
 
 <br>
 
