@@ -40,12 +40,10 @@ I enjoy getting under the hood of things: APIs that aren't documented, systems t
 Lately, I've also been spending more time around **AI agents, orchestration, developer tooling, and complex software architecture** — especially the part where you stop asking *"can this be done?"* and start asking *"how far can I push it?"*
 And yes, I have a suspicious amount of projects related to **YouTube, streaming, media, and custom clients**. 🏴‍☠️
 
-### 🧪 No particular niche
+### 🧪 Things I do
 
 I don't really have a single niche.
 I just like to build random things guided by my curiosity.
-
-### ❤️ Ethics
 
 Also,
 I don't really care about defending billion-dollar corporations.
