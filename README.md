@@ -135,7 +135,7 @@ I care about **privacy, freedom, access to knowledge, and people**.
       <img src="https://raw.githubusercontent.com/Yoddikko/kasetPlus/main/website/assets/app-icon.png" width="48" alt="KasetPlus icon">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="36 stars"><img src="https://raw.githubusercontent.com/Yoddikko/Yoddikko/main/assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>36</strong></span>&nbsp;&nbsp;&nbsp;<span title="3 forks"><img src="https://raw.githubusercontent.com/Yoddikko/Yoddikko/main/assets/icons/fork.svg" width="16" height="16" alt="Forks">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
+      <a href="https://github.com/Yoddikko/kasetPlus"><strong>KasetPlus</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/kasetPlus:start --><span title="39 stars"><img src="https://raw.githubusercontent.com/Yoddikko/Yoddikko/main/assets/icons/star.svg" width="16" height="16" alt="Stars">&nbsp;<strong>39</strong></span>&nbsp;&nbsp;&nbsp;<span title="3 forks"><img src="https://raw.githubusercontent.com/Yoddikko/Yoddikko/main/assets/icons/fork.svg" width="16" height="16" alt="Forks">&nbsp;<strong>3</strong></span><!-- repo-stats:Yoddikko/kasetPlus:end --><br>
       A native macOS client for YouTube and YouTube Music with AdBlock, SponsorBlock, Return YouTube Dislike, on-device video summaries, lyrics search, media downloads, additional playback controls, comment search, and a cleaner watch-page experience. (fork) <br>
       <sub>Swift · SwiftUI · macOS</sub>
     </td>
