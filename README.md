@@ -191,12 +191,12 @@ I care about **privacy, freedom, access to knowledge, and people**.
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/GulliverWeb/main/img/logo.png" width="48" alt="Gulliver icon">
+      <img src="https://raw.githubusercontent.com/Yoddikko/Victoria/main/Assets/victoria_logo.png" width="48" alt="Victoria logo">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/GulliverWeb"><strong>GulliverWeb</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/GulliverWeb:start --><!-- repo-stats:Yoddikko/GulliverWeb:end --><br>
-      Website for Gulliver, an iOS position spoofer app for MacOS<br>
-      <sub>HTML</sub>
+      <a href="https://github.com/Yoddikko/Victoria"><strong>Victoria</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/Victoria:start --><!-- repo-stats:Yoddikko/Victoria:end --><br>
+      A multi-phase gaming tournament engine for managing participants, matches, and tournament progression.<br>
+      <sub>React · TypeScript · Vite · Supabase</sub>
     </td>
   </tr>
 </table>
