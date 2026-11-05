@@ -191,10 +191,10 @@ I care about **privacy, freedom, access to knowledge, and people**.
   </tr>
   <tr>
     <td width="72" align="center">
-      <img src="https://raw.githubusercontent.com/Yoddikko/Victoria/main/Assets/victoria_logo.png" width="48" alt="Victoria logo">
+      <img src="https://raw.githubusercontent.com/Yoddikko/Yoddikko/main/assets/victoria-engine-logo.svg" width="48" alt="Victoria Engine logo">
     </td>
     <td>
-      <a href="https://github.com/Yoddikko/Victoria"><strong>Victoria</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/Victoria:start --><!-- repo-stats:Yoddikko/Victoria:end --><br>
+      <a href="https://github.com/Yoddikko/victoria-engine"><strong>Victoria Engine</strong></a>&nbsp;&nbsp;&nbsp;<!-- repo-stats:Yoddikko/victoria-engine:start --><!-- repo-stats:Yoddikko/victoria-engine:end --><br>
       A multi-phase gaming tournament engine for managing participants, matches, and tournament progression.<br>
       <sub>React · TypeScript · Vite · Supabase</sub>
     </td>
